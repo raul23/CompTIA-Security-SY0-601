@@ -1,5 +1,4 @@
 # CompTIA Security+: Exam SY0-601
-**NOTE:** CompTIA Security+ (SY0-501) English language exam will retire on July 31, 2021.
 
 - **Books**: 
   - *CompTIA Security+ SY0-601 Certification Guide*, 2nd Edition, by Ian Neil (2020)
