@@ -13,11 +13,14 @@ off of the network security knowledge covered by the `Network+`_ certification. 
    
 Domains
 =======
-1. Threats, Attacks, and Vulnerabilities
+1. Attacks, Threats and Vulnerabilities
 2. Architecture and Design
 3. Implementation
 4. Operations and Incident Response
 5. Governance, Risk, and Compliance
+
+Each domain is then divided into objectives. CompTIA Security+ (SY0-601) has 
+35 exam objectives, compared to 37 on SY0-501.
 
 **Ref.:** [2]_
 
@@ -100,8 +103,9 @@ Playlists
 
 - `“CompTIA Security+ SY0-601 Training Course.” (Professor Messer)`_ Youtube.
 
-  * Official playlist of Professor Messer's SY0-601 Security+ Training Course
+  * `Official website <https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/>`_
   * 177 videos as of 23 June 2021
+  * Total Running Time: 21 hours 14 minutes
 
 Singles
 -------
@@ -137,8 +141,7 @@ See also
 References
 ==========
 .. [1] https://en.wikipedia.org/wiki/CompTIA#Professional_level_certifications
-.. [2] Dunkerley, Dawn. `Mike Meyers’ CompTIA Security+ Certification Passport, 
-   Sixth Edition (Exam SY0-601)`_. 6th ed., McGraw-Hill Education, 2021.
+.. [2] https://www.comptia.org/blog/comptia-security-501-vs-601
 .. [3] https://www.comptia.org/certifications/security#examdetails
 
 .. URLs
