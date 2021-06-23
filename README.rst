@@ -119,6 +119,11 @@ Websites
     - For each domain, they provide links to Wikipedia articles about the different topics
       within the domain
 
+See also
+========
+* `notes.rst`_: notes for the book *Mike Meyers’ CompTIA Security+ Certification Passport, 
+  Sixth Edition (Exam SY0-601)*
+
 References
 ==========
 .. [1] https://en.wikipedia.org/wiki/CompTIA#Professional_level_certifications
@@ -150,3 +155,7 @@ References
 .. _Official CompTIA Security+ Certification Site: https://www.comptia.org/certifications/security
 .. _Security+ Certification: https://en.wikibooks.org/wiki/Security%2B_Certification
 .. _Threats and Vulnerabilities: https://en.wikibooks.org/wiki/Security%2B_Certification/Threats_and_Vulnerabilities
+
+.. URLs see also
+.. _notes.rst: notes.rst
+
