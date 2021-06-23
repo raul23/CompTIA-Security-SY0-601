@@ -35,10 +35,10 @@ Books
 Websites
 ========
 - `Official CompTIA Security+ Certification Site`_
-- **Wikipedia articles:**
+- **Wikipedia articles**
   
   * `CompTIA`_
-- Wikibooks
+- **Wikibooks**
  
   * `A+ Certification`_
   * `CompTIA <https://en.wikibooks.org/wiki/Special:Search/CompTIA>`__
