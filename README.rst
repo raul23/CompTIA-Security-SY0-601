@@ -130,8 +130,7 @@ Websites
  
     - I think it was based on the SY0-401 Exam
     - 2 domains over 6 are completed: `Networks Security`_ and `Threats and Vulnerabilities`_
-    - For each domain, they provide links to Wikipedia articles about the different topics
-      within the domain
+    - Within each domain, they provide links to Wikipedia articles for each topic studied
 
 See also
 ========
