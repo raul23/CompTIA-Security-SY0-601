@@ -48,11 +48,11 @@ Related certifications
 
   * `Official website <https://www.isc2.org/Certifications/SSCP>`_
   * `(ISC)²`_ (Wikipedia)
-- **(EC-Council Certified Ethical Hacker (CEH)**(
+- **EC-Council Certified Ethical Hacker) (CEH)**
 
   * `Official website <https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/>`_
   * `Certified Ethical Hacker`_ (Wikipedia)
-- **(GIAC Security Essentials (GSEC)**(
+- **GIAC Security Essentials (GSEC)**
 
   * `Official website <https://www.giac.org/certification/security-essentials-gsec>`_
   * `Global Information Assurance Certification`_ (Wikipedia)
