@@ -71,7 +71,7 @@ Related certifications
 
 |
 
-Comparisons between related certifications:
+**Comparisons between related certifications:**
 
 .. image:: https://raw.githubusercontent.com/raul23/images/master/CompTIA-Security-SY0-601/readme/comparisons.png
    :target: https://raw.githubusercontent.com/raul23/images/master/CompTIA-Security-SY0-601/readme/comparisons.png
