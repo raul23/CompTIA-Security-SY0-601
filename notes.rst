@@ -6,7 +6,7 @@ Notes for the book:
   Dunkerley, Dawn. `Mike Meyers’ CompTIA Security+ Certification Passport, 
   Sixth Edition (Exam SY0-601)`_. 6th ed., McGraw-Hill Education, 2021.
 
-This book comes complete with **TotalTester Online** exam software with 200 practice exam questions.
+This book comes complete with **TotalTester Online** exam software which has 200 practice exam questions.
 
 .. contents:: **Contents**
    :depth: 3
