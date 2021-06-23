@@ -7,7 +7,7 @@ Test details (SY0-601)
 - **Number of questions:** 90
 - **Length of test:** 90 minutes
 - **Passing score:** 750 on a scale of 100-900
-- **Type of Questions:** Multiple choice and performance-based questions (PBQs)
+- **Type of Questions:** Multiple choice and `performance-based questions`_ (PBQs)
 - **Recommended experience:** 
 
   - CompTIA Network+ certification
@@ -66,6 +66,7 @@ Websites
 
 .. URLs test details
 .. _Exam details: https://www.comptia.org/certifications/security#examdetails
+.. _performance-based questions: https://www.comptia.org/testing/testing-options/about-comptia-performance-exams/performance-based-questions-explained
 .. _Try a sample PBQs: https://simulation.comptia.org/
 
 .. URLs websites
