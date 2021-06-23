@@ -1,6 +1,12 @@
 ===============================
 CompTIA Security+: Exam SY0-601
 ===============================
+Resources for CompTIA Security+ SY0-601 and related topics.
+
+.. contents:: **Contents**
+   :depth: 3
+   :local:
+   :backlinks: top
 
 Test details (SY0-601)
 ======================
