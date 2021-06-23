@@ -40,11 +40,11 @@ Websites
   * `CompTIA`_
 - Wikibooks
  
- * `A+ Certification`_
- * `CompTIA <https://en.wikibooks.org/wiki/Special:Search/CompTIA>`__
- * `Security+ Certification`_: 
+  * `A+ Certification`_
+  * `CompTIA <https://en.wikibooks.org/wiki/Special:Search/CompTIA>`__
+  * `Security+ Certification`_: 
  
-   - 2 domains over 6 are completed: `Networks Security`_ and `Threats and Vulnerabilities`_
+    - 2 domains over 6 are completed: `Networks Security`_ and `Threats and Vulnerabilities`_
   
 .. URLs books
 .. _CompTIA Security+\: SY0-601 Certification Guide\: Complete Coverage of the New CompTIA Security+ (SY0-601) Exam to Help You Pass on the First Attempt: https://www.amazon.com/CompTIA-Security-Certification-Complete-coverage/dp/1800564244
