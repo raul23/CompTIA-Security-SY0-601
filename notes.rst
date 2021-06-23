@@ -38,6 +38,7 @@ SY0-501.
    1.8 Explain the techniques used in penetration testing.
    
 2. **Architecture and Design**
+
    2.1 Explain the importance of security concepts in an enterprise environment.
    
    2.2 Summarize virtualization and cloud computing concepts.
@@ -55,6 +56,7 @@ SY0-501.
    2.8 Summarize the basics of cryptographic concepts.
  
 3. **Implementation**
+
    3.1 Given a scenario, implement secure protocols.
    
    3.2 Given a scenario, implement host or application security solutions
@@ -74,6 +76,7 @@ SY0-501.
    3.9 Given a scenario, implement public key infrastructure.
 
 4. **Operations and Incident Response**
+   
    4.1 Given a scenario, use the appropriate tool to assess organizational security.
    
    4.2 Summaarize the importance of policies, processes, and procedures for incident response.
@@ -85,6 +88,7 @@ SY0-501.
    4.5 Explain the key aspects of digital forensics.
   
 5. **Governance, Risk, and Compliance**
+  
    5.1 Compare and contrast various types of controls.
   
    5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture.
