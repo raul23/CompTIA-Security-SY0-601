@@ -4,6 +4,11 @@ CompTIA Security+: Exam SY0-601
 
 Books
 =====
+- Dunkerley, Dawn. `Mike Meyers’ CompTIA Security+ Certification Passport, 
+  Sixth Edition (Exam SY0-601)`_. 6th ed., McGraw-Hill Education, 2021.
+
+.. 4.6, 42; using it
+
 - Neil, Ian. `CompTIA Security+\: SY0-601 Certification Guide\: Complete Coverage 
   of the New CompTIA Security+ (SY0-601) Exam to Help You Pass on the First Attempt`_, 
   2nd ed., Packt Publishing, 2020.
@@ -14,11 +19,6 @@ Books
   Certification, 2020.
 
 .. 4.5, 41
-
-- Dunkerley, Dawn. `Mike Meyers’ CompTIA Security+ Certification Passport, 
-  Sixth Edition (Exam SY0-601)`_. 6th ed., McGraw-Hill Education, 2021.
-
-.. 4.6, 42; using it
 
 Websites
 ========
