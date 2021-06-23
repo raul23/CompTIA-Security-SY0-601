@@ -22,7 +22,7 @@ Domains
 Each domain is then divided into objectives. CompTIA Security+ (SY0-601) has 
 35 exam objectives, compared to 37 on SY0-501.
 
-**Ref.:** [2]_
+**Ref.:** [2]_ and [3]_
 
 Test details (SY0-601)
 ======================
@@ -142,7 +142,8 @@ References
 ==========
 .. [1] https://en.wikipedia.org/wiki/CompTIA#Professional_level_certifications
 .. [2] https://www.comptia.org/blog/comptia-security-501-vs-601
-.. [3] https://www.comptia.org/certifications/security#examdetails
+.. [3] Exam objectives at https://www.koenig-solutions.com/comptia-security-syo-601-training
+.. [4] https://www.comptia.org/certifications/security#examdetails
 
 .. URLs
 .. _Network+: https://www.comptia.org/certifications/network
