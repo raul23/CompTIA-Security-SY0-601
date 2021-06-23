@@ -59,7 +59,7 @@ SY0-501.
 
    3.1 Given a scenario, implement secure protocols.
    
-   3.2 Given a scenario, implement host or application security solutions
+   3.2 Given a scenario, implement host or application security solutions.
    
    3.3 Given a scenario, implement secure network designs.
    
@@ -93,11 +93,11 @@ SY0-501.
   
    5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture.
   
-   5.3 Explain the importance of policies to organizational security
+   5.3 Explain the importance of policies to organizational security.
    
    5.4 Summarize risk management processes and concepts.
    
-   5.5 Explain privacy and sensitive data concepts in relation to security
+   5.5 Explain privacy and sensitive data concepts in relation to security.
 
 **Ref.:** [1]_ and [2]_
 
