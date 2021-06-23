@@ -10,6 +10,16 @@ off of the network security knowledge covered by the `Network+`_ certification. 
    :depth: 3
    :local:
    :backlinks: top
+   
+Domains
+=======
+1. Threats, Attacks, and Vulnerabilities
+2. Architecture and Design
+3. Implementation
+4. Operations and Incident Response
+5. Governance, Risk, and Compliance
+
+**Ref.:** [2]_
 
 Test details (SY0-601)
 ======================
@@ -34,7 +44,7 @@ Test details (SY0-601)
 
 |
 
-**Reference:** `Exam details`_ (comptia.org)
+**Ref.:** [3]_
 
 Books
 =====
@@ -127,6 +137,9 @@ See also
 References
 ==========
 .. [1] https://en.wikipedia.org/wiki/CompTIA#Professional_level_certifications
+.. [2] Dunkerley, Dawn. `Mike Meyers’ CompTIA Security+ Certification Passport, 
+   Sixth Edition (Exam SY0-601)`_. 6th ed., McGraw-Hill Education, 2021.
+.. [3] https://www.comptia.org/certifications/security#examdetails
 
 .. URLs
 .. _Network+: https://www.comptia.org/certifications/network
@@ -139,7 +152,6 @@ References
 
 .. URLs test details
 .. _comptia.org: https://www.comptia.org/certifications/security#examdetails
-.. _Exam details: https://www.comptia.org/certifications/security#examdetails
 .. _performance-based questions: https://www.comptia.org/testing/testing-options/about-comptia-performance-exams/performance-based-questions-explained
 .. _Try a sample PBQs: https://simulation.comptia.org/
 
