@@ -82,12 +82,17 @@ Image taken from `comptia.org`_
 
 Videos
 ======
+- `“CertMaster Labs for CompTIA Security+ (SY0-601).” (O-Line Security)`_ Youtube.
+
+  * 32 videos as of 23 June 2021
+
 - `“CompTIA Security+ SY0-601 Training Course.” (Professor Messer)`_ Youtube.
 
   * Official playlist of Professor Messer's SY0-601 Security+ Training Course
   * 177 videos as of 23 June 2021
 
 .. URLs videos
+.. _“CertMaster Labs for CompTIA Security+ (SY0-601).” (O-Line Security) : http://www.youtube.com/playlist?list=PLZ4vdb01vqpsEr1Yb36Icf3BZRP9mxbwG
 .. _“CompTIA Security+ SY0-601 Training Course.” (Professor Messer): https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8
 
 Websites
