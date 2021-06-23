@@ -137,6 +137,7 @@ See also
 ========
 * `notes.rst`_: notes for the book *Mike Meyers’ CompTIA Security+ Certification Passport, 
   Sixth Edition (Exam SY0-601)*
+* `Network security`_: resources for network security and related topics.
 
 References
 ==========
@@ -173,5 +174,6 @@ References
 .. _Threats and Vulnerabilities: https://en.wikibooks.org/wiki/Security%2B_Certification/Threats_and_Vulnerabilities
 
 .. URLs see also
+.. _Network security: https://github.com/raul23/network-security
 .. _notes.rst: notes.rst
 
