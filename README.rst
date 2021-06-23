@@ -22,7 +22,7 @@ Test details (SY0-601)
 
 `:information_source:`
 
-  - English version of SY0-501 will retire in July 31, 2021 and other
+  - SY0-501: English version will retire in July 31, 2021 and other
     languages will retire Q1 2022
   - `Try a sample PBQs`_
 
