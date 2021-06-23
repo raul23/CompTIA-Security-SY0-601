@@ -8,5 +8,5 @@ Notes for the book:
 
 This book comes complete with TotalTester Online customizable practice exam software with 200 practice exam questions.
 
-..URLs
+.. URLs
 .. _Mike Meyers’ CompTIA Security+ Certification Passport, Sixth Edition (Exam SY0-601): https://www.amazon.com/CompTIA-Security-Certification-Passport-SY0-601/dp/1260467953
