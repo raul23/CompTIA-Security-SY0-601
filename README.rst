@@ -93,8 +93,8 @@ Playlists
   * Official playlist of Professor Messer's SY0-601 Security+ Training Course
   * 177 videos as of 23 June 2021
 
-Single videos
--------------
+Singles
+-------
 * `"Security+ SY0-601 Exam\: 3 Things You Need to Know" (Mike Chapple)`_. Youtube, 16 Mar. 2021.
 
 .. URLs videos
