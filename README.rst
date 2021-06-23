@@ -42,6 +42,26 @@ Books
 
 .. 4.5, 41
 
+Related certifications
+======================
+- (ISC)2 Systems Security Certified Practitioner (SSCP)
+
+  * `Official website <https://www.isc2.org/Certifications/SSCP>`_
+  * `(ISC)²`_ (Wikipedia)
+- EC-Council Certified Ethical Hacker (CEH)
+
+  * `Official website <https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/>`_
+  * `Certified Ethical Hacker`_ (Wikipedia)
+- GIAC Security Essentials (GSEC)
+
+  * `Official website <https://www.giac.org/certification/security-essentials-gsec>`_
+  * `Global Information Assurance Certification`_ (Wikipedia)
+
+.. URLs Related certifications
+.. _(ISC)²: https://en.wikipedia.org/wiki/(ISC)%C2%B2
+.. _Certified Ethical Hacker: https://en.wikipedia.org/wiki/Certified_Ethical_Hacker
+.. _Global Information Assurance Certification: https://en.wikipedia.org/wiki/Global_Information_Assurance_Certification
+
 Websites
 ========
 - `Official CompTIA Security+ Certification Site`_
