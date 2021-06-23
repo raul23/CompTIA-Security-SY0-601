@@ -3,8 +3,8 @@ CompTIA Security+: Exam SY0-601
 ===============================
 Resources for CompTIA Security+ SY0-601 and related topics.
 
-Security+ is an entry-level vendor-neutral security certification that builds 
-off of the network security knowledge covered by the Network+ certification. [1]_
+`Security+`_ is an entry-level vendor-neutral security certification that builds 
+off of the network security knowledge covered by the `Network+`_ certification. [1]_
 
 .. contents:: **Contents**
    :depth: 3
@@ -89,6 +89,10 @@ Websites
 References
 ==========
 .. [1] https://en.wikipedia.org/wiki/CompTIA#Professional_level_certifications
+
+.. URLs
+.. _Network+: https://www.comptia.org/certifications/network
+.. _Security+: https://www.comptia.org/certifications/security
 
 .. URLs books
 .. _CompTIA Security+\: SY0-601 Certification Guide\: Complete Coverage of the New CompTIA Security+ (SY0-601) Exam to Help You Pass on the First Attempt: https://www.amazon.com/CompTIA-Security-Certification-Complete-coverage/dp/1800564244
