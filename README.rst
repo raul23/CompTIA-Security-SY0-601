@@ -10,6 +10,8 @@ Resources for CompTIA Security+ SY0-601 and related topics.
 
 Test details (SY0-601)
 ======================
+- **Exam Code:** SY0-601 
+- **Launch Date:** November 12, 2020
 - **Number of questions:** 90
 - **Length of test:** 90 minutes
 - **Passing score:** 750 on a scale of 100-900
@@ -19,6 +21,7 @@ Test details (SY0-601)
   - CompTIA Network+ certification
   - Two years of experience in IT administration with a security focus
 - **Languages:** English, Japanese
+- **Retirement:** Usually three years after launch
 
 `:information_source:`
 
