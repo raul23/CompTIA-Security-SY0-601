@@ -14,11 +14,13 @@ Test details (SY0-601)
   - Two years of experience in IT administration with a security focus
 - **Languages:** English, Japanese
 
-**NOTES:** 
+`:information_source:`
 
-- English version of SY0-501 will retire in July 31, 2021 and other
-  languages will retire Q1 2022
-- `Try a sample PBQs`_
+  - English version of SY0-501 will retire in July 31, 2021 and other
+    languages will retire Q1 2022
+  - `Try a sample PBQs`_
+
+|
 
 **Reference:** `Exam details`_ (comptia.org)
 
