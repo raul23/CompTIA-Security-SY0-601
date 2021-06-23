@@ -47,7 +47,7 @@ Test details (SY0-601)
 
 |
 
-**Ref.:** [3]_
+**Ref.:** [4]_
 
 Books
 =====
