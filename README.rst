@@ -2,17 +2,25 @@
 CompTIA Security+: Exam SY0-601
 ===============================
 
-Test details
-============
+Test details (SY0-601)
+======================
 - **Number of questions:** 90
 - **Length of test:** 90 minutes
 - **Passing score:** 750 on a scale of 100-900
+- **Type of Questions:** Multiple choice and performance-based questions (PBQs)
 - **Recommended experience:** 
 
   - CompTIA Network+ certification
-  - Two years of technical networking experience, with an emphasis on security
-- **Languages:** English, Spanish, German, Japanese, Chinese
-- **Exam codes:** SY0-601 and SY0-501
+  - Two years of experience in IT administration with a security focus
+- **Languages:** English, Japanese
+
+**NOTES:** 
+
+- English version of SY0-501 will retire in July 31, 2021 and other
+  languages will retire Q1 2022
+- `Try a sample PBQs`_
+
+**Reference:** `Exam details`_ (comptia.org)
 
 Books
 =====
@@ -53,6 +61,10 @@ Websites
 .. _CompTIA Security+\: SY0-601 Certification Guide\: Complete Coverage of the New CompTIA Security+ (SY0-601) Exam to Help You Pass on the First Attempt: https://www.amazon.com/CompTIA-Security-Certification-Complete-coverage/dp/1800564244
 .. _CompTIA Security+ SY0-601 Exam Cram: https://www.amazon.com/CompTIA-Security-SY0-601-Exam-Cram-dp-0136798675/dp/0136798675
 .. _Mike Meyers’ CompTIA Security+ Certification Passport, Sixth Edition (Exam SY0-601): https://www.amazon.com/CompTIA-Security-Certification-Passport-SY0-601/dp/1260467953
+
+.. URLs test details
+.. _Exam details: https://www.comptia.org/certifications/security#examdetails
+.. _Try a sample PBQs: https://simulation.comptia.org/
 
 .. URLs websites
 .. _A+ Certification: https://en.wikibooks.org/wiki/A%2B_Certification
