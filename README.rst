@@ -69,6 +69,17 @@ Related certifications
   * `Official website <https://www.giac.org/certification/security-essentials-gsec>`_
   * `Global Information Assurance Certification`_ (Wikipedia)
 
+|
+
+Comparisons between related certifications:
+
+.. image:: https://raw.githubusercontent.com/raul23/images/master/CompTIA-Security-SY0-601/readme/comparisons.png
+   :target: https://raw.githubusercontent.com/raul23/images/master/CompTIA-Security-SY0-601/readme/comparisons.png
+   :align: left
+   :alt: Comparisons between related certifications
+
+Image taken from `comptia.org`_
+
 Websites
 ========
 - `Official CompTIA Security+ Certification Site`_
@@ -100,6 +111,7 @@ References
 .. _Mike Meyers’ CompTIA Security+ Certification Passport, Sixth Edition (Exam SY0-601): https://www.amazon.com/CompTIA-Security-Certification-Passport-SY0-601/dp/1260467953
 
 .. URLs test details
+.. _comptia.org: https://www.comptia.org/certifications/security#examdetails
 .. _Exam details: https://www.comptia.org/certifications/security#examdetails
 .. _performance-based questions: https://www.comptia.org/testing/testing-options/about-comptia-performance-exams/performance-based-questions-explained
 .. _Try a sample PBQs: https://simulation.comptia.org/
