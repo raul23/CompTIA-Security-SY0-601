@@ -135,7 +135,7 @@ Websites
 See also
 ========
 * `notes.rst`_: notes for the book *Mike Meyers’ CompTIA Security+ Certification Passport, 
-  Sixth Edition (Exam SY0-601)*
+  Sixth Edition (Exam SY0-601)* [Work-In-Progress]
 * `Network security`_: resources for network security and related topics.
 
 References
