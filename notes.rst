@@ -1,6 +1,13 @@
 ==========================================================================================
 Notes: Mike Meyers’ CompTIA Security+ Certification Passport, Sixth Edition (Exam SY0-601)
 ==========================================================================================
+
+.. raw:: html
+
+  <p align="center">
+    <br> 🚧 &nbsp;&nbsp;&nbsp;<b>Work-In-Progress</b>
+  </p>
+
 Notes for the book:
 
   Dunkerley, Dawn. `Mike Meyers’ CompTIA Security+ Certification Passport, 
